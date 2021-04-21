@@ -1,5 +1,5 @@
 # Maximizing-ROE-Factor-
-Project on maximizing ROE factor for a company using Machine learning techniques and Tracking algorithm solely made by self inspired from real life trading techniques.
+Project on maximizing ROE factor for a company using Machine learning techniques and Tracking algorithm inspired from real life trading techniques.
 
 THe following code uses Genetic Algorithm and Linear Regression techniques to predict the price of the Stock Invested by the user in MATLAB.
 The algorithm is based in MATLAB which flags the times to buy or sell the stock according to the technical indicators such as:
